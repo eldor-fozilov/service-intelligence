@@ -3,3 +3,4 @@ extra material/
 lecture videos/
 *.ipynb_checkpoints
 *data/
+*.zip
